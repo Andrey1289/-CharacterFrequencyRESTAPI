@@ -1,0 +1,13 @@
+package com.andrey.InnerLine;
+
+import org.springframework.boot.SpringApplication;
+import org.springframework.boot.autoconfigure.SpringBootApplication;
+
+@SpringBootApplication
+public class InnerLineApplication {
+
+	public static void main(String[] args) {
+		SpringApplication.run(InnerLineApplication.class, args);
+	}
+
+}
